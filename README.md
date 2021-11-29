@@ -1,4 +1,4 @@
-# aws-s3-outputstream
+# mvt-set-generator
 
 The aws-s3-outputstream project allows for multipart uploads to an AWS S3 bucket through a java.io.OutputStream.
 
