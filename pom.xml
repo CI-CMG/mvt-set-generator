@@ -11,7 +11,7 @@
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>Converts AWS SDK v2 multipart upload into an java.io.OutputStream</description>
-  <url>https://github.com/CI-CMG/aws-s3-outputstream</url>
+  <url>https://github.com/CI-CMG/mvt-set-generator</url>
 
   <licenses>
     <license>
@@ -29,10 +29,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:CI-CMG/aws-s3-outputstream.git</connection>
-    <developerConnection>scm:git:git@github.com:CI-CMG/aws-s3-outputstream.git</developerConnection>
-    <url>https://github.com/CI-CMG/aws-s3-outputstream</url>
-    <tag>1.0</tag>
+    <connection>scm:git:git@github.com:CI-CMG/mvt-set-generator.git</connection>
+    <developerConnection>scm:git:git@github.com:CI-CMG/mvt-set-generator.git</developerConnection>
+    <url>https://github.com/CI-CMG/mvt-set-generator</url>
   </scm>
 
   <distributionManagement>
